@@ -368,7 +368,7 @@ class Countdown {
 
 let cd = new Countdown({
   cont: document.querySelector(".countdown"),
-  endDate: "March 23, 2021 17:30:00",
+  endDate: "March 22, 2021 17:30:00",
   outputTranslation: {
     day: "DAYS",
     hour: "HOURS",
